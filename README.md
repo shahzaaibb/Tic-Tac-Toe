@@ -1,3 +1,3 @@
 # TicTacToe
-Hi everyone, this is one of my first projects in C.
+Hi everyone, this Tic-Tac-Toe game is one of my first projects in C.
 Thanks for checking it out!
